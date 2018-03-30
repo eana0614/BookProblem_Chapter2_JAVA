@@ -1,3 +1,4 @@
 # BookProblem_Chapter2_JAVA
 
-ã……ã…‚ ì¶œë ¥ì¡°ê±´ì–´ë””ê°”ëƒíŒ”ì•„ë¨¹ì—ˆëƒ
+³­ÀÌµµ ¼ø¼­´ë·Î Ç®·Á°í Çß´õ´Ï
+ºí·ÏÀ» ¿Ã·Á³ùÀ»¶§ ´ëÇÑ Ç¥½Ã Á¶°Ç ¾ð±Þ ¾ø³× ¤µ¤²
